@@ -1,0 +1,11 @@
+C:\Users\davin\OneDrive\Documentos\cursos\csharp\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\davin\OneDrive\Documentos\cursos\csharp\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\davin\OneDrive\Documentos\cursos\csharp\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\davin\OneDrive\Documentos\cursos\csharp\Agenda\Agenda\obj\Debug\Agenda.Menu.resources
+C:\Users\davin\OneDrive\Documentos\cursos\csharp\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\davin\OneDrive\Documentos\cursos\csharp\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.cache
+C:\Users\davin\OneDrive\Documentos\cursos\csharp\Agenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\davin\OneDrive\Documentos\cursos\csharp\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\davin\OneDrive\Documentos\cursos\csharp\Agenda\Agenda\obj\Debug\Agenda.pdb
+C:\Users\davin\OneDrive\Documentos\cursos\csharp\Agenda\Agenda\obj\Debug\Agenda.InserirEditar.resources
+C:\Users\davin\OneDrive\Documentos\cursos\csharp\Agenda\Agenda\obj\Debug\Agenda.FormularioPesquisa.resources
